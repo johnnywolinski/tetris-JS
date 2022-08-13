@@ -1,0 +1,21 @@
+.grid {
+width: 200px;
+display: flex;
+flex-wrap: wrap;
+height: 400px;
+background-color: purple;
+}
+
+.grid div{
+ height: 20px;
+ width: 20px;
+
+}
+
+.h3 {
+color: green;
+}
+
+.tetromino {
+  background-color: blue;
+}
