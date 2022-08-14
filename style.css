@@ -4,11 +4,13 @@ display: flex;
 flex-wrap: wrap;
 height: 400px;
 background-color: purple;
+
 }
 
 .grid div{
  height: 20px;
  width: 20px;
+ 
 
 }
 
